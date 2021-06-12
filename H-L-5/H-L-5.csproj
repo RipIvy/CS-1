@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F45732C6-6E06-49B3-88FA-A5370D4A2919}</ProjectGuid>
+    <ProjectGuid>{FDF3A955-577D-433B-B22C-1EAD91C79A98}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>H_L_4</RootNamespace>
-    <AssemblyName>H-L-4</AssemblyName>
+    <RootNamespace>H_L_5</RootNamespace>
+    <AssemblyName>H-L-5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,12 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MyLibrary1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="MyLibrary1">
       <HintPath>.\MyLibrary1.dll</HintPath>
-    </Reference>
-    <Reference Include="OneArray">
-      <HintPath>.\OneArray.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
