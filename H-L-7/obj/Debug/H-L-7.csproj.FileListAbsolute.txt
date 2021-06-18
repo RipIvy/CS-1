@@ -1,0 +1,14 @@
+C:\Users\kiril\source\repos\CS-1\H-L-7\bin\Debug\H-L-7.exe.config
+C:\Users\kiril\source\repos\CS-1\H-L-7\bin\Debug\H-L-7.exe
+C:\Users\kiril\source\repos\CS-1\H-L-7\bin\Debug\H-L-7.pdb
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H-L-7.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H_L_7.Properties.Resources.resources
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H_L_7.StartForm.resources
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H-L-7.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H-L-7.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H-L-7.exe
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H-L-7.pdb
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H_L_7.UdvoitelForm.resources
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H_L_7.About.resources
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H_L_7.HowToPlay.resources
+C:\Users\kiril\source\repos\CS-1\H-L-7\obj\Debug\H_L_7.FindACoupleForm.resources
