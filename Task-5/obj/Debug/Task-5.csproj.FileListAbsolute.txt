@@ -1,0 +1,14 @@
+D:\Visual Studio\CS-1\Task-5\bin\Debug\Task-5.exe.config
+D:\Visual Studio\CS-1\Task-5\bin\Debug\Task-5.exe
+D:\Visual Studio\CS-1\Task-5\bin\Debug\Task-5.pdb
+D:\Visual Studio\CS-1\Task-5\obj\Debug\Task-5.csprojAssemblyReference.cache
+D:\Visual Studio\CS-1\Task-5\obj\Debug\Task-5.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CS-1\Task-5\obj\Debug\Task-5.exe
+D:\Visual Studio\CS-1\Task-5\obj\Debug\Task-5.pdb
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\bin\Debug\Task-5.exe.config
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\bin\Debug\Task-5.exe
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\bin\Debug\Task-5.pdb
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\obj\Debug\Task-5.csproj.AssemblyReference.cache
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\obj\Debug\Task-5.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\obj\Debug\Task-5.exe
+D:\Visual Studio\Основы языка С#\Homework-Lesson-1\CS-1\Task-5\obj\Debug\Task-5.pdb
