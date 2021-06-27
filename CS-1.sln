@@ -3,19 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H-L-6", "H-L-6\H-L-6.csproj", "{9760DE73-CA86-409F-A870-E896E7DB4206}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reflection", "Reflection", "{ECA4488A-9EC8-4450-A711-EF52F777C9AE}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9760DE73-CA86-409F-A870-E896E7DB4206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9760DE73-CA86-409F-A870-E896E7DB4206}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9760DE73-CA86-409F-A870-E896E7DB4206}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9760DE73-CA86-409F-A870-E896E7DB4206}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
