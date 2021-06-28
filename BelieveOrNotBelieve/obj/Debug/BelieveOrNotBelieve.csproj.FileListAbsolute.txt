@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\kiril\source\repos\CS-1\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb

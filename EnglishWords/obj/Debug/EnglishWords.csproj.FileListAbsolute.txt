@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\CS-1\EnglishWords\bin\Debug\PutEnglishWords.exe.config
+C:\Users\kiril\source\repos\CS-1\EnglishWords\bin\Debug\PutEnglishWords.exe
+C:\Users\kiril\source\repos\CS-1\EnglishWords\bin\Debug\PutEnglishWords.pdb
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\EnglishWords.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\PutEnglishWords.Form1.resources
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\PutEnglishWords.Properties.Resources.resources
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\EnglishWords.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\EnglishWords.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\PutEnglishWords.exe
+C:\Users\kiril\source\repos\CS-1\EnglishWords\obj\Debug\PutEnglishWords.pdb

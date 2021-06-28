@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\bin\Debug\PropertyTextValue.exe.config
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\bin\Debug\PropertyTextValue.exe
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\bin\Debug\PropertyTextValue.pdb
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.Form1.resources
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.Properties.Resources.resources
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.exe
+C:\Users\kiril\source\repos\CS-1\PropertyTextValue\obj\Debug\PropertyTextValue.pdb
