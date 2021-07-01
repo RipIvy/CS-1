@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\bin\Debug\ConvertCSVtoXML.exe.config
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\bin\Debug\ConvertCSVtoXML.exe
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\bin\Debug\ConvertCSVtoXML.pdb
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.exe
+C:\Users\kiril\source\repos\CS-1\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.pdb

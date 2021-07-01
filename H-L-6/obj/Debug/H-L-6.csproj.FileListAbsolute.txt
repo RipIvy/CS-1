@@ -1,9 +1,0 @@
-C:\Users\kiril\source\repos\CS-1\H-L-6\bin\Debug\H_L_6.exe.config
-C:\Users\kiril\source\repos\CS-1\H-L-6\bin\Debug\H_L_6.exe
-C:\Users\kiril\source\repos\CS-1\H-L-6\bin\Debug\H_L_6.pdb
-C:\Users\kiril\source\repos\CS-1\H-L-6\bin\Debug\MyLibrary1.dll
-C:\Users\kiril\source\repos\CS-1\H-L-6\obj\Debug\H-L-6.csproj.AssemblyReference.cache
-C:\Users\kiril\source\repos\CS-1\H-L-6\obj\Debug\H-L-6.csproj.CoreCompileInputs.cache
-C:\Users\kiril\source\repos\CS-1\H-L-6\obj\Debug\H-L-6.csproj.CopyComplete
-C:\Users\kiril\source\repos\CS-1\H-L-6\obj\Debug\H_L_6.exe
-C:\Users\kiril\source\repos\CS-1\H-L-6\obj\Debug\H_L_6.pdb

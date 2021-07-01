@@ -1,0 +1,9 @@
+C:\Users\kiril\source\repos\CS-1\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\kiril\source\repos\CS-1\Reflection\bin\Debug\Reflection.exe
+C:\Users\kiril\source\repos\CS-1\Reflection\bin\Debug\Reflection.pdb
+C:\Users\kiril\source\repos\CS-1\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CS-1\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CS-1\Reflection\obj\Debug\Reflection.exe
+C:\Users\kiril\source\repos\CS-1\Reflection\obj\Debug\Reflection.pdb
+C:\Users\kiril\source\repos\CS-1\Reflection\bin\Debug\MyLibrary1.dll
+C:\Users\kiril\source\repos\CS-1\Reflection\obj\Debug\Reflection.csproj.CopyComplete
